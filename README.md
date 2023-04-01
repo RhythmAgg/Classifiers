@@ -1,3 +1,4 @@
 # **Classifiers**
-Classifier -1 
+# Classifier -1
+
 Movie Recommendation using Naive Bayes Classification
